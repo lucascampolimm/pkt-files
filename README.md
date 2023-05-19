@@ -1,1 +1,1 @@
-# pkt-files
+Atividade de Redes de Computadores.
